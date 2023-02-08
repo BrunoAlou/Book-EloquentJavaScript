@@ -8,6 +8,7 @@ High concepts from this chapter:
         Conditional Execution:
 
 Functions Presented:
+
     console.log()
     if(){
 
