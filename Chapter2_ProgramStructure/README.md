@@ -1,11 +1,11 @@
 # Chapter 2 - ProgramStructure 
-Introduces to basic concepts of codding. 
-High concepts from this chapter:
-        Bidings:
-        Environment:
-        Functions:
-        Control Flow:
-        Conditional Execution:
+Introduces to basic concepts of codding. <br><br><br>
+High concepts from this chapter:<br>
+	Bidings:<br>
+        Environment:<br>
+        Functions:<br>
+        Control Flow:<br>
+        Conditional Execution:<br><br><br>
 
 Functions Presented:
 
